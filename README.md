@@ -7,7 +7,7 @@ University of Applied Sciences and Arts of Southern Switzerland, Switzerland.
 
 This work has been published at the 2026 21st Wireless On-Demand Network Systems and Services Conference (WONS 2026), Crans Montana, Switzerland. 
 
-Link to paper: [https://ieeexplore.ieee.org/document/11257482](https://opendl.ifip-tc6.org/db/conf/wons/wons2026/1571229394.pdf)
+Link to paper: [https://opendl.ifip-tc6.org/db/conf/wons/wons2026/1571229394.pdf](https://opendl.ifip-tc6.org/db/conf/wons/wons2026/1571229394.pdf)
 
 For any collaboration or questions please contact the first author: hussein.fawaz@usi.ch
 
